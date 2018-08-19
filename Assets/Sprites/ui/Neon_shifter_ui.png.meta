@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 5b0b0c4e2db5ec9459e727bb22c96c81
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neon_shifter_ui_0
+    21300002: Neon_shifter_ui_1
+    21300004: Neon_shifter_ui_2
+    21300006: Neon_shifter_ui_3
+    21300008: Neon_shifter_ui_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neon_shifter_ui_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 687
+        width: 743
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neon_shifter_ui_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 522
+        width: 420
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neon_shifter_ui_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 377
+        width: 501
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neon_shifter_ui_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 245
+        width: 580
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neon_shifter_ui_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 107
+        width: 234
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
